@@ -1,4 +1,4 @@
-# Space-Invaders
+# Space Invaders in C++
 retro Space Invaders Game built in C++, i used the graphic library of raylib
 
 
